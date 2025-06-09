@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958092819645",
+    "project_id": "uj-khata-book",
+    "storage_bucket": "uj-khata-book.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958092819645:android:e9b2b124ccf2dc1acd0bd4",
+        "android_client_info": {
+          "package_name": "com.newstudio.ujkhataapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr5ds1JF-xbvk91N87rPWSgUd-D82UsSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
